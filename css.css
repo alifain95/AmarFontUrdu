@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'AmarNastaleeq';
+  src: url("../fonts/AmarNastaleeq.eot");
+  src: url("../fonts/AmarNastaleeq.eot") format("embedded-opentype"), 
+       url("../fonts/AmarNastaleeq.woff") format("woff"), 
+       url("../fonts/AmarNastaleeq.ttf") format("truetype"), 
+       url("../fonts/AmarNastaleeq.svg") format("svg");
+  unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF, U+FE70-FEFF;
+}
